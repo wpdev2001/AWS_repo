@@ -1,0 +1,13 @@
+On-Premises for Types of cloud computing:
+  Applications
+  Data
+  Runtime
+  Middleware
+  O/S
+  Virtualization
+  Servers
+  Storage 
+  Networking
+Explain all those fields?
+
+Go through the shared responsibility model diagram carefully?
