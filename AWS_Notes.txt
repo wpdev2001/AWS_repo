@@ -11,3 +11,6 @@ On-Premises for Types of cloud computing:
 Explain all those fields?
 
 Go through the shared responsibility model diagram carefully?
+
+Lectures Part:
+==============
